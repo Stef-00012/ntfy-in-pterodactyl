@@ -41,5 +41,4 @@ The config file is located in `/home/container/data/server.yml`
 
 additional Ntfy configs are avaible [here](https://ntfy.sh/docs/config/)
 
-*(that's until someone actually makes a good egg for ntfy with console support to use the cli)*
-*(i can not directly upload the zip file contents because the Ntfy CLI is bigger than the github's 25MB file size limit)*
+*(that's until someone actually makes a good egg for ntfy with console support to use the cli)<br />(i can not directly upload the zip file contents because the Ntfy CLI is bigger than the github's 25MB file size limit)*
