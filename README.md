@@ -1,5 +1,5 @@
 # Setup
-your pterodactyl panel must use the [AIO egg](https://github.com/DanBot-Hosting/pterodactyl-eggs/blob/main/egg-a-i-o.json) *(not tested on any other egg)*
+your pterodactyl panel must use the [AIO egg](https://github.com/DanBot-Hosting/pterodactyl-eggs/blob/main/egg-a-i-o.json) *(was not tested on any other egg)*
 
 1. Download the `ntfy.zip`
 2. Upload it on your pterodactyl panel and unarchive it
